@@ -1,1 +1,1 @@
-# Curso-do-Senai---PYTHON---SEGUNDA
+# Curso-do-Senai---PYTHON---TERÇA
